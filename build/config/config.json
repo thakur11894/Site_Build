@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCF97031d43E1786cD37533216844D7F639b858F3",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xcf97031d43e1786cd37533216844d7f639b858f3",
+  "NETWORK": {
+    "NAME": "Rinkeby Etherium",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "Don Vito's NFT",
+  "SYMBOL": "Don Vito",
+  "MAX_SUPPLY": 6000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/don-vito-test",
+  "SHOW_BACKGROUND": true
+}
